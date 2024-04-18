@@ -1,5 +1,5 @@
 <h1 align="center">It's me Yadhukrishna</h1>
-<h3 align="center">FULL STACK DEVELOPER || Self Learner</h3>
+<h3 align="center">FULL STACK DEVELOPER || Self Learner || MERN</h3>
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg)
 
