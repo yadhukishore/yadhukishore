@@ -3,6 +3,11 @@
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg)
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=yadhukishore&label=Profile%20views&color=0e75b6&style=flat" alt="yadhukishore" /> 
+</p>
+
+
 
 - 💬 Ask me about **React, JavaScript, Node, Express, Mongo, SQL, DSA, C & Java**
 - 📫 How to reach me **yadhukishore69@gmail.com**
