@@ -26,60 +26,122 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
- </a>
- <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/>
- </a>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
- </a>
- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
- </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
- </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
- </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
- </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
- </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
- </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
- </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
- </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
- </a>
- <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
- </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
- </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
- </a>
- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
- </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
- </a>
-</p>
+## Languages and Tools
+
+Here are the professional languages and tools I'm proficient with:
+
+
+ <table align="center">
+  <tr>  
+    <td align="center" width="96">
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="icon" width="65" height="65" />
+    <br>Next.js
+</td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+       <br>React
+    </td>
+     <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="65" height="65" />
+       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
+       <br>Express
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+       <br>Node
+    </td>  
+    <td align="center" width="96">
+       <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" width="65" height="65" />
+       <br>MongoDB
+    </td>
+      </tr>
+   <tr>   
+    <td align="center"  width="96">
+       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+       <br>PostgreSQL
+    </td>       
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
+       <br>JavaScript(ES6+)
+    </td> 
+    <td align="center" width="96">
+       <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="EJS" width="65" height="65" />
+       <br>Embedded JavaScript (EJS)
+    </td>   
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+       <br>postman
+    </td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+       <br>NGINX
+    </td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+       <br>AWS
+    </td>
+        </tr>
+     <tr>
+   <td align="center" width="96">
+    <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="icon" width="65" height="65" />
+    <br>Material UI
+</td>
+    <td align="center" width="96">
+       <img src="https://img.icons8.com/color/96/000000/figma.png" alt="Figma" width="65" height="65" />
+       <br>Figma
+    </td>
+    <td align="center" width="96">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="65" height="65" />
+       <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+       <br>CSS
+    </td>
+    <td align="center"  width="96">
+       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+       <br>HTML5
+    </td>
+       <td align="center" width="96">
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="65" height="65" />
+    <br>Tailwind CSS
+</td>
+     </tr>
+       <tr>
+    <td align="center"  width="96">
+       <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="githubactions" />
+       <br>Github actions
+    </td> 
+    <td align="center" width="96"> 
+       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+       <br>Git
+    </td>     
+      <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+       <br>Github
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+       <br>VsCode
+    </td> 
+    <td align="center" width="96">
+       <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java" width="65" height="65" />
+       <br>Java
+    </td>
+    <td align="center" width="96">
+       <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C" width="65" height="65" />
+       <br>C
+    </td>          
+       </tr>
+   <tr>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
+       <br>ubuntu
+    </td>   
+          </tr>
+  </table>
+ <br><br>
+</div>
