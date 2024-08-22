@@ -17,9 +17,9 @@
  <a href="https://linkedin.com/in/yadhukrishna-kishore-4b7469244" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
  </a>
- <a href="https://www.leetcode.com/yadhukishore69" target="blank">
+<!--  <a href="https://www.leetcode.com/yadhukishore69" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
- </a>
+ </a> -->
  <a href="https://wa.me/918921675464" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
  </a>
