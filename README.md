@@ -10,7 +10,7 @@
 
 
 - 💬 Ask me about **React, JavaScript, Node, Express, Mongo, SQL, DSA, C & Java**
-- 📫 How to reach me **yadhukishore69@gmail.com**
+- 📫 How to reach me **yadhukishore37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
