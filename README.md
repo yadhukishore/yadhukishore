@@ -9,7 +9,7 @@
 
 
 
-- 💬 Ask me about **React, JavaScript, Node, Express, Mongo, SQL, DSA, C & Java**
+- 💬 Ask me about **React, JavaScript, Node, Express, TypeScript ,Mongo, SQL, DSA, C & Java**
 - 📫 How to reach me **yadhukishore37@gmail.com**
 - 🌐 Website: [Portfolio](https://yadhukrishnapkfolio.vercel.app/)
 
